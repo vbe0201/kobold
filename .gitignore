@@ -68,6 +68,8 @@ Thumbs.db
 /[Dd]ebug/
 /[Oo]bj/
 /[Rr]elease/
+/[Rr]esult/
+/[Rr]esult
 *.zip
 
 # Types json
